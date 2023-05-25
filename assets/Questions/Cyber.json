@@ -1,0 +1,1714 @@
+[
+  {
+    "questionText": "Qu'est-ce que la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "La protection des systèmes informatiques contre les attaques", "correct": true},
+      {"text": "La création de programmes informatiques", "correct": false},
+      {"text": "L'analyse des données massives", "correct": false},
+      {"text": "Le développement de sites web", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un firewall ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un dispositif de sécurité réseau", "correct": true},
+      {"text": "Un logiciel de traitement de données", "correct": false},
+      {"text": "Une méthode de cryptage de données", "correct": false},
+      {"text": "Une technologie de stockage de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quel est l'objectif principal de la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Protéger les données personnelles", "correct": true},
+      {"text": "Accélérer les performances des ordinateurs", "correct": false},
+      {"text": "Créer des logiciels innovants", "correct": false},
+      {"text": "Optimiser les réseaux sociaux", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un mot de passe fort ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un mot de passe long et complexe avec des caractères spéciaux", "correct": true},
+      {"text": "Un mot de passe court et simple à retenir", "correct": false},
+      {"text": "Un mot de passe basé sur des informations personnelles", "correct": false},
+      {"text": "Un mot de passe partagé avec d'autres utilisateurs", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quelles sont les principales menaces de la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Les virus et les logiciels malveillants", "correct": true},
+      {"text": "Les publicités en ligne", "correct": false},
+      {"text": "Les mises à jour logicielles", "correct": false},
+      {"text": "Les réseaux sociaux", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un pare-feu ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un logiciel de protection contre les virus et les logiciels malveillants", "correct": false},
+      {"text": "Un système de sauvegarde de données", "correct": false},
+      {"text": "Un dispositif de sécurité réseau qui contrôle le trafic entrant et sortant", "correct": true},
+      {"text": "Un outil utilisé pour détecter les vulnérabilités des applications web", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une adresse IP ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un identifiant unique attribué à un ordinateur sur un réseau", "correct": true},
+      {"text": "Une technique de cryptage utilisée pour sécuriser les communications", "correct": false},
+      {"text": "Un type de logiciel malveillant", "correct": false},
+      {"text": "Une méthode de sauvegarde des données", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une sauvegarde régulière des données ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une méthode pour supprimer définitivement les données sensibles", "correct": false},
+      {"text": "Une méthode de protection contre les attaques de phishing", "correct": false},
+      {"text": "Une technique de chiffrement des fichiers", "correct": false},
+      {"text": "Une copie de sécurité des données pour prévenir la perte de données en cas de problème", "correct": true}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'un mot de passe fort ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un mot de passe facile à deviner", "correct": false},
+      {"text": "Un mot de passe composé de caractères aléatoires", "correct": true},
+      {"text": "Un mot de passe basé sur des informations personnelles", "correct": false},
+      {"text": "Un mot de passe court et simple", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que le phishing ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une technique d'attaque visant à obtenir des informations confidentielles en se faisant passer pour une entité légitime", "correct": true},
+      {"text": "Une méthode de protection des données sensibles", "correct": false},
+      {"text": "Un système de chiffrement utilisé pour sécuriser les communications", "correct": false},
+      {"text": "Un type de logiciel malveillant", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'un logiciel antivirus ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un logiciel qui bloque les publicités en ligne", "correct": false},
+      {"text": "Un logiciel de protection contre les virus et les logiciels malveillants", "correct": true},
+      {"text": "Un logiciel qui effectue des sauvegardes régulières des données", "correct": false},
+      {"text": "Un logiciel qui détecte les vulnérabilités des applications web", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Quelles sont les principales menaces de la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Les virus et les logiciels malveillants", "correct": true},
+      {"text": "Les publicités en ligne", "correct": false},
+      {"text": "Les mises à jour logicielles", "correct": false},
+      {"text": "Les réseaux sociaux", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'un cookie dans le contexte d'Internet ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un fichier contenant des données personnelles stocké sur un ordinateur", "correct": true},
+      {"text": "Une technique de chiffrement utilisée pour sécuriser les communications", "correct": false},
+      {"text": "Un logiciel malveillant qui infecte un ordinateur", "correct": false},
+      {"text": "Une méthode de sauvegarde des données", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que le hameçonnage (phishing) par e-mail ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une technique d'attaque qui utilise des câbles réseau pour intercepter les données", "correct": false},
+      {"text": "Une technique de chiffrement utilisée pour protéger les e-mails", "correct": false},
+      {"text": "Une technique d'attaque qui vise à tromper les utilisateurs par le biais d'e-mails frauduleux", "correct": true},
+      {"text": "Une méthode de sauvegarde des e-mails", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'un logiciel malveillant de type spyware ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un logiciel qui bloque l'accès à un système ou à des fichiers", "correct": false},
+      {"text": "Un logiciel qui vole les informations personnelles d'un utilisateur sans son consentement", "correct": true},
+      {"text": "Un logiciel qui enregistre toutes les frappes sur un clavier", "correct": false},
+      {"text": "Un logiciel qui infecte un système et utilise ses ressources pour miner des cryptomonnaies", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'authentification à deux facteurs ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un système qui nécessite deux mots de passe pour accéder à un compte", "correct": false},
+      {"text": "Un système qui utilise deux méthodes d'identification différentes pour vérifier l'identité d'un utilisateur", "correct": true},
+      {"text": "Un système qui utilise un mot de passe et une empreinte digitale pour accéder à un compte", "correct": false},
+      {"text": "Un système qui nécessite l'utilisation de deux appareils pour se connecter à un compte", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'un réseau virtuel privé (VPN) ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un réseau qui permet de connecter plusieurs ordinateurs entre eux", "correct": false},
+      {"text": "Un réseau qui utilise des protocoles de chiffrement pour sécuriser les communications", "correct": true},
+      {"text": "Un réseau qui bloque l'accès à certains sites web", "correct": false},
+      {"text": "Un réseau qui permet de naviguer sur Internet de manière anonyme", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par déni de service (DDoS) ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque qui vise à voler des informations confidentielles", "correct": false},
+      {"text": "Une attaque qui bloque l'accès à un système ou à un service en surchargeant les serveurs", "correct": true},
+      {"text": "Une attaque qui exploite une faille de sécurité connue d'un logiciel", "correct": false},
+      {"text": "Une attaque qui utilise des techniques de phishing pour tromper les utilisateurs", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que la cybersécurité ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "La protection des données personnelles sur les réseaux sociaux", "correct": false},
+      {"text": "La protection des systèmes informatiques contre les attaques et les intrusions", "correct": true},
+      {"text": "La prévention des spams et des publicités en ligne", "correct": false},
+      {"text": "La protection des smartphones contre les virus et les logiciels malveillants", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'ingénierie sociale ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une méthode pour protéger les utilisateurs contre les attaques de phishing", "correct": false},
+      {"text": "Une technique d'attaque qui exploite la confiance et la manipulation psychologique des individus", "correct": true},
+      {"text": "Une méthode de chiffrement utilisée pour sécuriser les communications", "correct": false},
+      {"text": "Une méthode pour créer des mots de passe complexes", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'un logiciel malveillant de type ransomware ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un logiciel qui bloque l'accès à un système ou à des fichiers en demandant une rançon", "correct": true},
+      {"text": "Un logiciel qui vole les informations personnelles d'un utilisateur", "correct": false},
+      {"text": "Un logiciel qui enregistre toutes les frappes sur un clavier", "correct": false},
+      {"text": "Un logiciel qui infecte un système et utilise ses ressources pour miner des cryptomonnaies", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par force brute ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque qui consiste à deviner un mot de passe en essayant toutes les combinaisons possibles", "correct": true},
+      {"text": "Une attaque qui utilise des virus et des logiciels malveillants pour infecter un système", "correct": false},
+      {"text": "Une attaque qui exploite une faille de sécurité connue d'un logiciel", "correct": false},
+      {"text": "Une attaque qui vise à bloquer l'accès à un site web en surchargeant les serveurs", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une mise à jour logicielle ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un processus visant à supprimer les logiciels malveillants d'un système", "correct": false},
+      {"text": "Un processus visant à améliorer les fonctionnalités et la sécurité d'un logiciel", "correct": true},
+      {"text": "Un processus visant à copier les fichiers d'un système vers un autre", "correct": false},
+      {"text": "Un processus visant à supprimer définitivement les données d'un système", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'un réseau local (LAN) ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un réseau qui relie des ordinateurs et des périphériques sur une grande distance", "correct": false},
+      {"text": "Un réseau qui relie des ordinateurs et des périphériques dans une zone géographique limitée", "correct": true},
+      {"text": "Un réseau qui permet d'accéder à Internet", "correct": false},
+      {"text": "Un réseau qui utilise des protocoles de chiffrement pour sécuriser les communications", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par phishing par SMS (smishing) ?",
+    "difficulty": "Débutant",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque qui consiste à envoyer des e-mails frauduleux pour tromper les utilisateurs", "correct": false},
+      {"text": "Une attaque qui consiste à envoyer des messages SMS frauduleux pour tromper les utilisateurs", "correct": true},
+      {"text": "Une attaque qui utilise des câbles réseau pour intercepter les données", "correct": false},
+      {"text": "Une attaque qui utilise des techniques de chiffrement pour voler des informations", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une sauvegarde de données ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une copie de sécurité des données pour les protéger contre la perte ou la corruption", "correct": true},
+      {"text": "Une technique de cryptage des données pour les rendre illisibles", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false},
+      {"text": "Une méthode de transmission sécurisée des données sur un réseau", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un mot de passe fort ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un mot de passe complexe et difficile à deviner", "correct": true},
+      {"text": "Un mot de passe court et facile à mémoriser", "correct": false},
+      {"text": "Un mot de passe utilisé pour accéder à un compte sans autorisation", "correct": false},
+      {"text": "Un mot de passe partagé entre plusieurs utilisateurs", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une attaque par déni de service (DDoS) ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque visant à rendre un service indisponible en surchargeant le système", "correct": true},
+      {"text": "Une attaque qui vise à voler des informations confidentielles", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de piratage utilisant des logiciels malveillants", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un logiciel malveillant (malware) ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un logiciel conçu pour nuire à un système informatique", "correct": true},
+      {"text": "Un logiciel qui améliore les performances d'un système", "correct": false},
+      {"text": "Un logiciel de sauvegarde des données", "correct": false},
+      {"text": "Un logiciel de chiffrement des fichiers", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une faille de sécurité ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une vulnérabilité dans un système qui peut être exploitée pour compromettre la sécurité", "correct": true},
+      {"text": "Un incident de sécurité causé par une erreur humaine", "correct": false},
+      {"text": "Une attaque visant à perturber le fonctionnement d'un réseau", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une authentification à deux facteurs ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un processus d'identification qui utilise deux éléments distincts pour vérifier l'identité d'un utilisateur", "correct": true},
+      {"text": "Un processus de chiffrement des communications pour assurer la confidentialité", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur deux supports distincts", "correct": false},
+      {"text": "Un processus de cryptage des mots de passe pour renforcer la sécurité", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une attaque de phishing par email ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où des emails frauduleux sont envoyés pour tromper les utilisateurs et obtenir des informations sensibles", "correct": true},
+      {"text": "Une attaque qui utilise des logiciels malveillants pour corrompre les fichiers d'un système", "correct": false},
+      {"text": "Une technique d'intrusion dans un réseau sans fil", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un réseau privé virtuel (VPN) ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un outil de chiffrement des communications pour sécuriser les connexions sur un réseau public", "correct": true},
+      {"text": "Un logiciel de sauvegarde des données sur un serveur distant", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un système de gestion des mots de passe pour un réseau d'entreprise", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de mot de passe ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles définissant les critères de création et de gestion des mots de passe", "correct": true},
+      {"text": "Un logiciel de détection des mots de passe faibles", "correct": false},
+      {"text": "Une méthode d'authentification biométrique basée sur les empreintes digitales", "correct": false},
+      {"text": "Une technique de chiffrement des mots de passe pour les rendre illisibles", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une clé de chiffrement ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une donnée utilisée pour chiffrer et déchiffrer des informations", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Un dispositif matériel de sécurité", "correct": false},
+      {"text": "Une méthode de cryptage des communications", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une mise à jour de sécurité ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un correctif logiciel visant à combler les vulnérabilités et renforcer la sécurité d'un système", "correct": true},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un outil de détection des logiciels malveillants", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de sécurité informatique ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles et de procédures visant à protéger les ressources informatiques d'une organisation", "correct": true},
+      {"text": "Un logiciel de chiffrement des données", "correct": false},
+      {"text": "Une technique de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de sauvegarde des données ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles et de procédures définissant la fréquence et les méthodes de sauvegarde des données", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une attaque par ingénierie sociale ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque qui exploite la confiance ou la crédulité des utilisateurs pour obtenir des informations sensibles", "correct": true},
+      {"text": "Une technique d'intrusion dans un réseau sans fil", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une attaque qui perturbe le fonctionnement d'un système", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de pare-feu ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles définissant les autorisations et les restrictions d'accès au pare-feu", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de cryptage des données", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de gestion des vulnérabilités ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de procédures visant à identifier, évaluer et traiter les vulnérabilités d'un système", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de gestion des accès ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles définissant les droits d'accès aux ressources informatiques d'une organisation", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de sensibilisation à la sécurité ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble d'actions visant à informer et former les utilisateurs sur les bonnes pratiques en matière de sécurité", "correct": true},
+      {"text": "Un logiciel de chiffrement des données", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de sécurité physique ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de mesures visant à protéger les locaux et les équipements physiques d'une organisation", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de cryptage des communications", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un certificat numérique ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une preuve électronique permettant d'authentifier l'identité d'une entité en ligne", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de gestion des logs ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles et de procédures visant à collecter, stocker et analyser les logs système", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de détection des intrusions ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles et de procédures visant à détecter et réagir aux tentatives d'intrusion dans un système", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de réponse aux incidents ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de procédures visant à gérer et résoudre les incidents de sécurité informatique", "correct": true},
+      {"text": "Un logiciel de chiffrement des données", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de gestion des correctifs ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de procédures visant à gérer et appliquer les correctifs de sécurité sur les systèmes", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de gestion des sauvegardes ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles et de procédures visant à gérer les sauvegardes régulières des données", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de cryptage des données", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de sécurisation des équipements mobiles ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de mesures visant à protéger les appareils mobiles et les données qu'ils contiennent", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de cryptage des communications", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de gestion des accès privilégiés ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles et de procédures visant à contrôler et surveiller les accès aux privilèges élevés", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une politique de gestion des identités ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un ensemble de règles et de procédures visant à gérer les identités numériques des utilisateurs", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de chiffrement des données", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un audit de sécurité informatique ?",
+    "difficulty": "Intermédiaire",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une évaluation systématique de la sécurité d'un système informatique", "correct": true},
+      {"text": "Un logiciel de détection des logiciels malveillants", "correct": false},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Un processus de sauvegarde des données sur un support externe", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une attaque de type homme du milieu (MITM) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où un attaquant s'interpose entre les communications légitimes pour intercepter ou modifier les données échangées", "correct": true},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une attaque de phishing avancé (spear phishing) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque de phishing ciblée et personnalisée, utilisant des informations spécifiques sur la victime pour augmenter les chances de succès", "correct": true},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par injection SQL ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque visant à exploiter les failles de sécurité d'un site web en injectant du code SQL malveillant dans une requête", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par élévation de privilèges ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque visant à obtenir des droits d'accès supérieurs à ceux initialement accordés dans un système", "correct": true},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque de type ransomware ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où des données sont chiffrées et rendues inaccessibles par un attaquant, qui demande ensuite une rançon pour les déchiffrer", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque de type zero-day ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque qui exploite une vulnérabilité non encore connue ou corrigée par les éditeurs de logiciels", "correct": true},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque de type APT (Advanced Persistent Threat) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque sophistiquée et ciblée, menée par des acteurs persistants qui cherchent à s'infiltrer dans un système pendant une longue période", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par détournement de session (session hijacking) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où un attaquant s'empare d'une session utilisateur légitime pour accéder à des ressources ou effectuer des actions au nom de l'utilisateur", "correct": true},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par détournement de DNS (DNS hijacking) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où les paramètres DNS sont modifiés pour rediriger les utilisateurs vers de faux sites web ou des serveurs contrôlés par l'attaquant", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par déni de service distribué (DDoS) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque visant à rendre un service indisponible en inondant le système cible de trafic", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Un processus de suppression permanente des données", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par écrémage de carte (card skimming) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où des dispositifs sont placés sur des terminaux de paiement pour capturer les informations de carte bancaire des utilisateurs", "correct": true},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par détection de frappe (keystroke logging) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où les frappes sur le clavier sont enregistrées à l'insu de l'utilisateur, permettant à l'attaquant de récupérer les mots de passe et autres informations sensibles", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par dépassement de tampon (buffer overflow) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque visant à exploiter une vulnérabilité dans un programme en injectant plus de données que ce que peut contenir le tampon", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par divulgation d'informations (information disclosure) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où des informations sensibles sont révélées ou exposées involontairement, permettant à des personnes non autorisées d'y accéder", "correct": true},
+      {"text": "Une méthode de dissimulation d'attaques sur le réseau", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce qu'une attaque par injection de code (code injection) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où du code malveillant est injecté dans une application ou un système pour exécuter des actions non autorisées", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'une attaque par usurpation d'identité (identity theft) ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Une attaque où un attaquant se fait passer pour une personne légitime afin d'obtenir des informations confidentielles ou de commettre des actes frauduleux", "correct": true},
+      {"text": "Une méthode de chiffrement des communications", "correct": false},
+      {"text": "Une technique de surveillance des utilisateurs en ligne", "correct": false},
+      {"text": "Un logiciel malveillant visant à voler des informations sensibles", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le traitement des données massives", "correct": true},
+      {"text": "La protection des systèmes informatiques", "correct": false},
+      {"text": "L'analyse de la sécurité des réseaux", "correct": false},
+      {"text": "Le développement de sites web", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quels sont les rôles d'un data scientist ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Analyser et interpréter les données massives", "correct": true},
+      {"text": "Développer des logiciels pour les entreprises", "correct": false},
+      {"text": "Concevoir des sites web interactifs", "correct": false},
+      {"text": "Gérer les infrastructures de serveurs", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le traitement des données massives", "correct": true},
+      {"text": "La protection des systèmes informatiques", "correct": false},
+      {"text": "L'analyse de la sécurité des réseaux", "correct": false},
+      {"text": "Le développement de sites web", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quelle caractéristique décrit le mieux le Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Volume élevé de données", "correct": true},
+      {"text": "Sécurité des réseaux", "correct": false},
+      {"text": "Développement web", "correct": false},
+      {"text": "Stockage de fichiers", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quelles sont les trois dimensions du Big Data souvent mentionnées ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Volume, vélocité, variété", "correct": true},
+      {"text": "Sécurité, stockage, sauvegarde", "correct": false},
+      {"text": "Développement, design, déploiement", "correct": false},
+      {"text": "Analyse, architecture, automatisation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le volume de données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La quantité totale de données générées", "correct": true},
+      {"text": "La vitesse à laquelle les données sont générées", "correct": false},
+      {"text": "La diversité des types de données", "correct": false},
+      {"text": "La qualité des données collectées", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la vélocité de données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La vitesse à laquelle les données sont générées", "correct": true},
+      {"text": "La quantité totale de données générées", "correct": false},
+      {"text": "La diversité des types de données", "correct": false},
+      {"text": "La qualité des données collectées", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la variété de données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La diversité des types de données", "correct": true},
+      {"text": "La quantité totale de données générées", "correct": false},
+      {"text": "La vitesse à laquelle les données sont générées", "correct": false},
+      {"text": "La qualité des données collectées", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la vérité des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La qualité des données collectées", "correct": true},
+      {"text": "La quantité totale de données générées", "correct": false},
+      {"text": "La vitesse à laquelle les données sont générées", "correct": false},
+      {"text": "La diversité des types de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quelle technologie est couramment utilisée pour stocker et gérer de grandes quantités de données dans le Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Hadoop", "correct": true},
+      {"text": "MySQL", "correct": false},
+      {"text": "Python", "correct": false},
+      {"text": "JavaScript", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'analyse de données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus d'extraction de connaissances à partir de données", "correct": true},
+      {"text": "La protection des données contre les attaques", "correct": false},
+      {"text": "Le développement d'applications web", "correct": false},
+      {"text": "La gestion des systèmes de stockage de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'apprentissage automatique (machine learning) dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Une technique permettant aux machines d'apprendre à partir des données", "correct": true},
+      {"text": "La gestion des données en temps réel", "correct": false},
+      {"text": "L'optimisation de la vitesse de traitement des données", "correct": false},
+      {"text": "La sauvegarde et la restauration des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'Internet des objets (IoT) dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le réseau de dispositifs connectés collectant et échangeant des données", "correct": true},
+      {"text": "La virtualisation des serveurs pour le stockage de données", "correct": false},
+      {"text": "La gestion des infrastructures réseau", "correct": false},
+      {"text": "La sécurisation des connexions Internet", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quelle technique est utilisée pour extraire des informations utiles à partir de textes non structurés dans le Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Traitement du langage naturel (NLP)", "correct": true},
+      {"text": "Compression de données", "correct": false},
+      {"text": "Chiffrement des données", "correct": false},
+      {"text": "Gestion des bases de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la visualisation de données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": true},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "Le transfert de données entre différents systèmes", "correct": false},
+      {"text": "La gestion des droits d'accès aux données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la gouvernance des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Les politiques et les procédures pour gérer et protéger les données", "correct": true},
+      {"text": "L'optimisation des performances des systèmes de stockage", "correct": false},
+      {"text": "Le développement d'applications basées sur les données", "correct": false},
+      {"text": "L'analyse des tendances et des modèles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la confidentialité des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": true},
+      {"text": "La réduction de la taille des données pour économiser de l'espace de stockage", "correct": false},
+      {"text": "La création de copies de sauvegarde pour éviter la perte de données", "correct": false},
+      {"text": "L'optimisation des requêtes pour accélérer le traitement des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'évolutivité dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": true},
+      {"text": "La gestion des droits d'accès aux données", "correct": false},
+      {"text": "La transformation des données brutes en informations utiles", "correct": false},
+      {"text": "La détection et la prévention des fraudes", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le prétraitement des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La préparation et le nettoyage des données avant leur analyse", "correct": true},
+      {"text": "La protection des données contre les attaques", "correct": false},
+      {"text": "Le stockage des données sur des serveurs distants", "correct": false},
+      {"text": "L'interrogation et la manipulation des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'anonymisation des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": true},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "L'optimisation des requêtes pour accélérer le traitement des données", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la corrélation des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La relation entre deux variables dans un ensemble de données", "correct": true},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "La sauvegarde et la restauration des données", "correct": false},
+      {"text": "La gestion des droits d'accès aux données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'optimisation des requêtes dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'amélioration des performances des requêtes de données pour un traitement plus rapide", "correct": true},
+      {"text": "La gestion des infrastructures réseau", "correct": false},
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la sauvegarde des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La copie des données pour éviter leur perte en cas de panne ou de sinistre", "correct": true},
+      {"text": "La gestion des droits d'accès aux données", "correct": false},
+      {"text": "Le prétraitement et le nettoyage des données avant leur analyse", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'intégrité des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La garantie que les données sont complètes, précises et cohérentes", "correct": true},
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": false},
+      {"text": "Le stockage des données sur des serveurs distants", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'extraction de données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus de récupération de données à partir de différentes sources", "correct": true},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "L'interrogation et la manipulation des données", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le stockage distribué dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": true},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La sauvegarde et la restauration des données", "correct": false},
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'échantillonnage dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": true},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "L'optimisation des performances des requêtes de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la qualité des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'exactitude, la cohérence et la fiabilité des données", "correct": true},
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'architecture Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La conception et la structure des systèmes et des processus pour le Big Data", "correct": true},
+      {"text": "La garantie que les données sont complètes, précises et cohérentes", "correct": false},
+      {"text": "Le prétraitement et le nettoyage des données avant leur analyse", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'automatisation des tâches dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'utilisation de logiciels et de systèmes pour exécuter des tâches sans intervention humaine", "correct": true},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la collaboration des données dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le partage et l'échange de données entre différentes parties prenantes", "correct": true},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "La sauvegarde et la restauration des données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la parallélisation dans le contexte du Big Data ?",
+    "difficulty": "Débutant",
+    "category": "BigData",
+    "answers": [
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": true},
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": false},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la gouvernance des métadonnées dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La gestion et le contrôle des informations sur les données (métadonnées)", "correct": true},
+      {"text": "L'exactitude, la cohérence et la fiabilité des données", "correct": false},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la virtualisation des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La création d'une vue unifiée des données provenant de différentes sources", "correct": true},
+      {"text": "L'optimisation des performances des requêtes de données", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'ingestion de données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus de collecte et d'importation de données dans un système de Big Data", "correct": true},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false},
+      {"text": "L'exactitude, la cohérence et la fiabilité des données", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'analyse prédictive dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'utilisation de modèles et d'algorithmes pour prévoir des résultats futurs", "correct": true},
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": false},
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'analyse descriptive dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'examen et la compréhension des données existantes pour en extraire des informations", "correct": true},
+      {"text": "La création d'une vue unifiée des données provenant de différentes sources", "correct": false},
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": false},
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le Data Mining dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'extraction d'informations précieuses à partir de grandes quantités de données", "correct": true},
+      {"text": "La gestion et le contrôle des informations sur les données (métadonnées)", "correct": false},
+      {"text": "La création d'une vue unifiée des données provenant de différentes sources", "correct": false},
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la datafication dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La transformation de diverses formes de données en données numériques", "correct": true},
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'Internet des objets (IoT) dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le réseau interconnecté d'objets physiques collectant et échangeant des données", "correct": true},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "La sauvegarde et la restauration des données", "correct": false},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'anonymisation des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": true},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "L'amélioration des performances des requêtes de données pour un traitement plus rapide", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la corrélation des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La relation entre deux variables dans un ensemble de données", "correct": true},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "La sauvegarde et la restauration des données", "correct": false},
+      {"text": "La gestion des droits d'accès aux données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'optimisation des requêtes dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'amélioration des performances des requêtes de données pour un traitement plus rapide", "correct": true},
+      {"text": "La gestion des infrastructures réseau", "correct": false},
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la sauvegarde des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La copie des données pour éviter leur perte en cas de panne ou de sinistre", "correct": true},
+      {"text": "La gestion des droits d'accès aux données", "correct": false},
+      {"text": "Le prétraitement et le nettoyage des données avant leur analyse", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'intégrité des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La garantie que les données sont complètes, précises et cohérentes", "correct": true},
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la confidentialité des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": true},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": false},
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la visualisation des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La représentation graphique des données pour en faciliter l'interprétation", "correct": true},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La gestion des infrastructures réseau", "correct": false},
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la normalisation des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La standardisation des données pour assurer la cohérence et la comparabilité", "correct": true},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false},
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la sécurité des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La protection des informations contre les menaces et les attaques", "correct": true},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "La création d'une vue unifiée des données provenant de différentes sources", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'optimisation des ressources dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'utilisation efficace des ressources matérielles et logicielles pour traiter les données", "correct": true},
+      {"text": "La duplication des données pour des raisons de sécurité", "correct": false},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La gestion et le contrôle des informations sur les données (métadonnées)", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'analyse de sentiment dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'évaluation des émotions et des opinions exprimées dans les données", "correct": true},
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": false},
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": false},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la gestion des droits d'accès dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le contrôle des autorisations pour accéder aux données en fonction des utilisateurs", "correct": true},
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": false},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "La création d'une vue unifiée des données provenant de différentes sources", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la scalabilité dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": true},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La gestion des infrastructures réseau", "correct": false},
+      {"text": "La corrélation entre deux variables dans un ensemble de données", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la duplication des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La création de copies supplémentaires des données pour des raisons de sécurité", "correct": true},
+      {"text": "La collecte et l'agrégation de données provenant de différentes sources", "correct": false},
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": false},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la répartition des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La distribution des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": true},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La gestion des droits d'accès aux données", "correct": false},
+      {"text": "La création d'une vue unifiée des données provenant de différentes sources", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'agrégation des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La collecte et la combinaison de données provenant de différentes sources", "correct": true},
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": false},
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": false},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'analyse en temps réel dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'analyse des données au fur et à mesure qu'elles sont générées en temps réel", "correct": true},
+      {"text": "La division et l'exécution simultanée de tâches sur plusieurs ressources", "correct": false},
+      {"text": "La sélection d'un sous-ensemble représentatif de données pour l'analyse", "correct": false},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que l'apprentissage automatique (machine learning) dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'utilisation d'algorithmes pour permettre aux systèmes d'apprendre à partir des données", "correct": true},
+      {"text": "La gestion des droits d'accès aux données", "correct": false},
+      {"text": "La protection des informations sensibles contre tout accès non autorisé", "correct": false},
+      {"text": "La répartition des données sur plusieurs serveurs pour améliorer les performances et la redondance", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que la gouvernance des données dans le contexte du Big Data ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "La gestion et le contrôle des informations sur les données (métadonnées)", "correct": true},
+      {"text": "La suppression ou la modification des informations personnelles dans les données", "correct": false},
+      {"text": "La capacité d'un système à gérer efficacement une croissance de données", "correct": false},
+      {"text": "La création d'une vue unifiée des données provenant de différentes sources", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Quel est le rôle d'un data scientist ?",
+    "difficulty": "Intermédiaire",
+    "category": "BigData",
+    "answers": [
+      {"text": "Analyser et interpréter les données massives", "correct": true},
+      {"text": "Développer des logiciels pour les entreprises", "correct": false},
+      {"text": "Concevoir des sites web interactifs", "correct": false},
+      {"text": "Gérer les infrastructures de serveurs", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce que le Hadoop ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Un framework open source pour le traitement des données massives", "correct": true},
+      {"text": "Une plateforme de cloud computing", "correct": false},
+      {"text": "Un langage de programmation pour les applications mobiles", "correct": false},
+      {"text": "Un protocole de communication pour les réseaux", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que Spark dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Un système de traitement distribué qui fournit une plateforme pour le traitement rapide et flexible des données à grande échelle", "correct": true},
+      {"text": "Un langage de programmation pour les applications Big Data", "correct": false},
+      {"text": "Une infrastructure pour le stockage de données massives", "correct": false},
+      {"text": "Un protocole de communication pour les réseaux", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que le data wrangling dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus de nettoyage, de transformation et de préparation des données pour l'analyse", "correct": true},
+      {"text": "La collecte et le stockage des données massives", "correct": false},
+      {"text": "La visualisation des données pour en extraire des insights", "correct": false},
+      {"text": "L'application de techniques d'apprentissage automatique aux données", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'apprentissage automatique (machine learning) dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'utilisation d'algorithmes pour extraire des connaissances à partir des données", "correct": true},
+      {"text": "La gestion et l'optimisation des ressources informatiques pour le Big Data", "correct": false},
+      {"text": "L'analyse des données textuelles pour en extraire des informations", "correct": false},
+      {"text": "La création de modèles de données pour le stockage des données massives", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que la régression linéaire dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Une technique d'analyse pour évaluer la relation linéaire entre deux variables", "correct": true},
+      {"text": "Un modèle de traitement distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de clustering pour regrouper les données similaires", "correct": false},
+      {"text": "Une méthode de prétraitement des données pour éliminer les valeurs aberrantes", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'architecture lambda dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Un modèle de traitement des données en temps réel et en batch", "correct": true},
+      {"text": "Un système de stockage distribué pour les données massives", "correct": false},
+      {"text": "Une plateforme de cloud computing", "correct": false},
+      {"text": "Un framework pour la visualisation des données massives", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que le deep learning dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Une branche de l'apprentissage automatique basée sur les réseaux de neurones artificiels", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de compression pour économiser de l'espace de stockage", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que la parallélisation dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "La division des tâches en sous-tâches qui peuvent être exécutées simultanément", "correct": true},
+      {"text": "Un modèle de traitement distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de clustering pour regrouper les données similaires", "correct": false},
+      {"text": "Une technique d'analyse pour détecter les anomalies dans les données", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'indexation des données dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "La création de structures d'index pour accélérer l'accès et la recherche des données", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de cryptage pour sécuriser les données sensibles", "correct": false},
+      {"text": "Un modèle de compression pour économiser de l'espace de stockage", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que le traitement du langage naturel (Natural Language Processing, NLP) dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'utilisation de techniques informatiques pour comprendre et interpréter le langage humain", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de compression pour économiser de l'espace de stockage", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'architecture de microservices dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Un style d'architecture logicielle basé sur des services indépendants et modulaires", "correct": true},
+      {"text": "Un modèle de traitement distribué pour les données massives", "correct": false},
+      {"text": "Une technique d'analyse pour regrouper les données similaires", "correct": false},
+      {"text": "Un framework pour la visualisation des données massives", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'analyse de réseau dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "L'étude et l'analyse des relations et des interactions entre les entités dans un réseau", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de compression pour économiser de l'espace de stockage", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'optimisation de requêtes dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus d'amélioration des performances des requêtes pour l'accès aux données", "correct": true},
+      {"text": "Un modèle de traitement distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de clustering pour regrouper les données similaires", "correct": false},
+      {"text": "Une technique d'analyse pour détecter les anomalies dans les données", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'anonymisation des données dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "La transformation des données afin de supprimer ou de masquer les informations d'identification", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de compression pour économiser de l'espace de stockage", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que la classification dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Une technique d'analyse pour regrouper les données dans des catégories prédéfinies", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de cryptage pour sécuriser les données sensibles", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que l'intégration de données dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus de combiner et de regrouper des données provenant de différentes sources", "correct": true},
+      {"text": "Un modèle de traitement distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de compression pour économiser de l'espace de stockage", "correct": false},
+      {"text": "Une technique d'analyse pour détecter les anomalies dans les données", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que la visualisation des données dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "La représentation graphique des données pour faciliter la compréhension et l'analyse", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de cryptage pour sécuriser les données sensibles", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que la déduplication des données dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus d'identification et de suppression des doublons ou des données redondantes", "correct": true},
+      {"text": "Un modèle de traitement distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de clustering pour regrouper les données similaires", "correct": false},
+      {"text": "Une technique d'analyse pour détecter les anomalies dans les données", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que la gestion des données non structurées dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le processus de collecte, de stockage et d'analyse des données qui n'ont pas de structure prédéfinie", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de compression pour économiser de l'espace de stockage", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+
+  {
+    "questionText": "Qu'est-ce que le traitement en mémoire (in-memory processing) dans le contexte du Big Data ?",
+    "difficulty": "Expert",
+    "category": "BigData",
+    "answers": [
+      {"text": "Le traitement des données en utilisant la mémoire vive pour des performances rapides", "correct": true},
+      {"text": "Un modèle de stockage distribué pour les données massives", "correct": false},
+      {"text": "Un algorithme de cryptage pour sécuriser les données sensibles", "correct": false},
+      {"text": "Une méthode d'agrégation de données pour accélérer le traitement", "correct": false}
+    ]
+  },
+  {
+    "questionText": "Qu'est-ce qu'un algorithme de chiffrement ?",
+    "difficulty": "Expert",
+    "category": "Cybersécurité",
+    "answers": [
+      {"text": "Un algorithme qui transforme des données en un code secret", "correct": true},
+      {"text": "Un algorithme qui transforme des données en un code binaire", "correct": false},
+      {"text": "Un algorithme qui compresse les données", "correct": false},
+      {"text": "Un algorithme qui calcule les probabilités", "correct": false}
+    ]
+  }
+]
